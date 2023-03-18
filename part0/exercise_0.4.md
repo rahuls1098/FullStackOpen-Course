@@ -34,5 +34,5 @@ sequenceDiagram
 	server-->>browser: [{"content": "", "date": ""},...]
 	deactivate server
 
-	Note to the right of browser: Browser executes event handler to render the notes to display 
+	Note right of browser: Browser executes event handler to render the notes to display 
 ```
