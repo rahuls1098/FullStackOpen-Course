@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
 	participant browser
 	participant server
@@ -34,4 +35,4 @@ sequenceDiagram
 	deactivate server
 
 	Note to the right of browser: Browser executes event handler to render the notes to display 
-
+```
